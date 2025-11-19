@@ -2,9 +2,9 @@
 // GAME CONFIGURATION
 // ===========================
 const CONFIG = {
-    CANVAS_WIDTH: 800,
-    CANVAS_HEIGHT: 600,
-    CELL_SIZE: 40,
+    CANVAS_WIDTH: 600,
+    CANVAS_HEIGHT: 450,
+    CELL_SIZE: 60,
     PLAYER_RADIUS: 8,
     PLAYER_COLOR: '#00ffff',
     WALL_COLOR: '#cccccc',
