@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #0a0a0a;
+    font-family: 'Courier New', monospace;
+    color: #00ff88;
+}
+
+#gameContainer {
+    text-align: center;
+}
+
+canvas {
+    border: 2px solid #00ff88;
+    box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
+    display: block;
+    margin: 0 auto;
+}
+
+#ui {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#instructions {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #00cc66;
+}
+
+.message {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.game-over {
+    color: #ff4444;
+}
+
+.level-complete {
+    color: #00ff88;
+}
