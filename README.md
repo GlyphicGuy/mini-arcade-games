@@ -68,6 +68,3 @@ Make something fun, weird, cool, or chaotic.
 Surprise us. Break the rules of normal.  
 Just **make a mini game that works**.
 
-## Demo Gameplay
-
-![alt text](echolocation.gif)

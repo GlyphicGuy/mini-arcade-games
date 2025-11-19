@@ -165,3 +165,7 @@ Now that you're all set up, dive into the darkness and master the art of echoloc
 **Good luck, and may your pulses guide you! 🌊✨**
 
 ---
+
+## Demo Gameplay
+
+![alt text](echolocation.gif)
